@@ -1,0 +1,12 @@
+in.txt
+out.txt
+*.txt
+
+
+a.out
+solucao
+*.o
+
+*.exe
+
+.vscode/
